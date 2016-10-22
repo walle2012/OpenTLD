@@ -1,5 +1,6 @@
 TLD 1.0 (Predator)
 ----------------------------------------------------------------------------
+这是一套用于目标追踪的程序，貌似是matlab的程序。。。我以为是cpp的
 
 TLD is an algorithm for tracking of unknown objects in unconstrained video streams. The object of interest is defined by a bounding box in a single frame. TLD simultaneously tracks the object, learns its appearance and detects it whenever it appears in the video.
 
